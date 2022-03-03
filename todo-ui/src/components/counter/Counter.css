@@ -1,0 +1,33 @@
+
+.titleBar{
+    color: blueviolet;
+    background-color: silver;
+    padding: 20px;
+    margin-top: 0px;
+  }
+
+button{
+    font-size: 16px;
+    padding: 15px 20px;
+    background-color: cadetblue;
+    color: cornsilk;
+    width: 100px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.resetButton{
+    width: 220px;
+    cursor: pointer;
+    background-color: red;
+}
+
+.count{
+    font-size: 40px;
+    padding: 20px 20px;
+    color: royalblue;
+}
+
+.counterBotton{
+    margin : 15px
+}
